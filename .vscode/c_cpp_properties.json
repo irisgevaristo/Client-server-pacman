@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Pacman Linux",
+      "includePath": [
+        "${workspaceFolder}/server-side/include",
+        "${workspaceFolder}/server-side/src",
+        "${workspaceFolder}/client-side/include",
+        "${workspaceFolder}/client-side/src"
+      ],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}

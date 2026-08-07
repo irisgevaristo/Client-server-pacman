@@ -1,0 +1,135 @@
+DIM = 6 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
+DIM = 9 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXXXXXXXX
+Line: XoooXoooX
+Line: XooXooXoX
+Line: Xooooo@oX
+Line: XoooooooX
+Line: XXXXXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
+DIM = 6 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
+DIM = 6 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
+DIM = 6 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
+DIM = 6 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
+DIM = 6 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
+DIM = 6 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
+DIM = 6 x 6
+TEMPO = 10
+PAC = dir1/1.p
+MON file: dir1/1.m
+MON file: dir1/2.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 10
+Ghost Pos = 4 x 1
+Ghost passo: 10
+Ghost Pos = 2 x 4
